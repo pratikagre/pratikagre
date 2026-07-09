@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<a href="https://pratikagre.github.io">
+<a href="https://pratikagre-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://in.linkedin.com/in/pratik-agre-74b18a325">
